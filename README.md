@@ -1,0 +1,2 @@
+# BashAlias
+For bash aliases
